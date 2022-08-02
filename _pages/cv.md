@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S in Hydrography and Oceanography, ENSTA Bretagne, 2018
+* M.S. in Marine Sciences: Physics of the Ocean and Climate, IUEM/UBO, 2018
+* Ph.D in Physical Oceanography, GEOMAR Helmholtz Centre for Ocean Research Kiel, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February-August 2022: Postdoctoral Researcher
+  * GEOMAR Helmholtz Centre for Ocean Research Kiel
+  * Supervisors: PD Dr. Joke F. Lübbecke and Prof. Dr. Mojib Latif
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* April-May 2022: Research cruise M181 R/V METEOR
+  * Cape Town, South Africa - Mindelo, Cape Verde
+
+* September-October 2019: Research cruise M158 R/V METEOR
+  * Walvis Bay, Namibia - Recife, Brazil
+
+* October 2018- February 2022: Doctoral Researcher
+  * GEOMAR Helmholtz Centre for Ocean Research Kiel
+  * Supervisors: PD Dr. Joke F. Lübbecke and Prof. Dr. Mojib Latif
+  * 
+* July-August 2018: Visiting Researcher
+  * University of Cape Town, Cape Town, South Africa
+  * Supervisors: Dr. Steven Herbette, Dr. Jonathan Gula, Dr. Jennifer Veitch
+
+* June-August 2017: Visiting Researcher
+  * National Institute of Oceanography and applied Geophysics (OGS), Trieste, Italy
+  * Supervisor: Dr. Pierre-Marie Poulain
+ 
+
 
 Publications
 ======
@@ -48,12 +53,5 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
