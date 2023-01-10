@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in Physical Oceanography currently working at the GEOMAR Helmholtz Centre for Ocean Research Kiel. 
+I am a postdoctoral fellow in Physical Oceanography currently working at the International Centre for Theoretical Physics (ICTP). 
 
 My main interests are:
 
