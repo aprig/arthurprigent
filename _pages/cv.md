@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* January 2023 - Today: Postdoctoral Fellow
+  * The Abdus Salam International Centre for Theoretical Physics (ICTP)
+  * Supervisor: Dr. Riccardo Farneti 
+
 * February-August 2022: Postdoctoral Researcher
   * GEOMAR Helmholtz Centre for Ocean Research Kiel
   * Supervisors: PD Dr. Joke F. Lübbecke and Prof. Dr. Mojib Latif
@@ -30,7 +34,7 @@ Work experience
 * October 2018- February 2022: Doctoral Researcher
   * GEOMAR Helmholtz Centre for Ocean Research Kiel
   * Supervisors: PD Dr. Joke F. Lübbecke and Prof. Dr. Mojib Latif
-  * 
+   
 * July-August 2018: Visiting Researcher
   * University of Cape Town, Cape Town, South Africa
   * Supervisors: Dr. Steven Herbette, Dr. Jonathan Gula, Dr. Jennifer Veitch
