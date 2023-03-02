@@ -57,5 +57,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Citations
+======  
   
-
+![Drag Racing](histogram_citation.png)
