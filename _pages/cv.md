@@ -60,4 +60,4 @@ Talks
 Citations
 ======  
 
-<img scr="histogram_citation.png" width="50%" height="50%/>
+<img scr="histogram_citation.png" width="50%" height="50%" />
