@@ -59,5 +59,5 @@ Talks
   
 Citations
 ======  
-  
-![Drag Racing](histogram_citation.png)
+
+<img scr="histogram_citation.png" width="50%" height="50%/>
