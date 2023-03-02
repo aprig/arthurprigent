@@ -57,7 +57,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Citations
-======  
-
-<img scr="histogram_citation.png" width="50%" height="50%" />
