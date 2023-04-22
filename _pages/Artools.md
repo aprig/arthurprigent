@@ -1,12 +1,12 @@
 ---
-permalink: /Atools/
-title: "Atools"
+permalink: /Artools/
+title: "Artools"
 ---
 
 
 ## What is it about? 
 
-Atools is just some usefull scripts to compute interannual anomalies of a timeserie and take subdomains of a large dataset.
+Artools is just some usefull scripts to compute interannual anomalies of a timeserie and take subdomains of a large dataset.
 ## Examples
 ### Example 1: data_sub
 ```bash
