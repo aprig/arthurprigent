@@ -3,17 +3,16 @@ permalink: /Atools/
 title: "Atools"
 ---
 
-# Artools
 
 ## What is it about? 
 
-Artools is just some usefull scripts to compute interannual anomalies of a timeserie and take subdomains of a large dataset.
+Atools is just some usefull scripts to compute interannual anomalies of a timeserie and take subdomains of a large dataset.
 ## Examples
 ### Example 1: data_sub
 ```bash
 import xarray as xr
 import numpy as np
-import Artools.my_functions as Atools
+import Atools.my_functions as Atools
 from pydap.client import open_url
 import matplotlib.pyplot as plt
 ```
