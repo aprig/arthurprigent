@@ -1,6 +1,6 @@
 
 ---
-permalink: /BenguelaNinos/
+permalink: /BenguelaNiños/
 title: "Benguela Niños?"
 ---
 
