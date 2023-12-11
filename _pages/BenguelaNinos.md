@@ -1,9 +1,3 @@
-<style>
-  img {
-    max-width: 100%; /* Ensure the image doesn't exceed its container's width */
-    height: auto;    /* Maintain the image's aspect ratio */
-  }
-</style>
 
 ---
 permalink: /BenguelaNinos/
