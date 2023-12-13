@@ -8,7 +8,7 @@ title: "Atlantic Niños?"
 ## What are Atlantic Niños? 
 Every few years the eastern equatorial Atlantic ocean is marked by large sea surface temperature (SST) deviations from its seasonal cycle. These deviations are named Atlantic Niños, which are extreme and accute events occuring in the ATL3 region (20˚W-0˚E; 3˚S-3˚N, blue box). An Atlantic <span style="color:red">**Niño**</span> (<span style="color:blue">**Niña**</span>) is an extreme <span style="color:red"> **warm** </span> (<span style="color:blue">**cold**</span>) event, characterized by <span style="color:red">**warmer**</span> (<span style="color:blue">**colder**</span>) sea surface temperature than normal. 
 
-![Editing a markdown file for a talk](https://raw.githubusercontent.com/aprig/arthurprigent/0fceaec02bea5651dae8e0a31bbc21b5a3605fab/_pages/figure_atl3.png)
+![Editing a markdown file for a talk](https://raw.githubusercontent.com/aprig/arthurprigent/master/_pages/figure_atl3.png)
 Figure 1. Standard deviation of the monthly mean SST anomalies calculated over the period 1982/01-2022/12. The blue box denotes the ATL3 region. 
 
 Typically, Atlantic Niños/Niñas occur in May-June-July (MJJ) as shown by the seasonal cycle of the standard deviation of the ATL3-averaged SST anomalies (Figure 2). The peak of variability occur during the development of the Atlantic cold tongue which generally occur in July-August-September. There is a secondary peak of SST variability in November-December known as the Atlantic Niño II (Okumara and Xie, 2006).
