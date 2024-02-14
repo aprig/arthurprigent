@@ -20,3 +20,8 @@ Plotting a timeseries of detrended SST anomalies averaged over the ATL3 depicts 
 
 ![Editing a markdown file for a talk](https://raw.githubusercontent.com/aprig/arthurprigent/master/_pages/figure_timeseries_atl3.png)
 Figure 3. Timeseries of the ATL3-averaged detrended OI-SST anomalies. Anomalies were evaluated with respect to the climatology over the period 1982-2022. Red (blue) shades indicate that the SST anomalies is larger (smaller) than one standard deviation (0.45 ˚C).  
+
+
+### Small video representing the tropical Atlantic SST anomalies from 1982 to 2022. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/USFp18zEMEY?si=8WDH9Pvk2ddYD_Y1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
