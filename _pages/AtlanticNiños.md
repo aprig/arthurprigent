@@ -24,5 +24,3 @@ Figure 3. Timeseries of the ATL3-averaged detrended OI-SST anomalies. Anomalies 
 
 ### Small video representing the tropical Atlantic SST anomalies from 1982 to 2022. 
 
-{% include youtube.html id="USFp18zEMEY" %}
-
