@@ -20,3 +20,7 @@ Plotting a timeseries of the detrended SST anomalies averaged over the ABA depic
 
 ![Editing a markdown file for a talk](https://raw.githubusercontent.com/aprig/arthurprigent/master/_pages/figure_timeseries.png)
 Figure 3. Timeseries of the ABA-averaged detrended OI-SST anomalies. Anomalies were evaluated with respect to the climatology over the period 1982-2022. Red (blue) shades indicate that the SST anomalies is larger (smaller) than one standard deviation (0.73 ˚C).  
+
+### Small video representing the tropical Atlantic SST anomalies from 1982 to 2022. 
+
+{% include youtube.html id="USFp18zEMEY" %}
