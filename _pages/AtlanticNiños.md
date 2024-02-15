@@ -18,7 +18,7 @@ Figure 2. Seasonal cycle of the ATL3-averaged (a) SST and (b) standard deviation
 
 Plotting a timeseries of detrended SST anomalies averaged over the ATL3 depicts the major Atlantic Niños/Niñas (Figure 3). We note that since the year 2000 fewer Atlantic Niños/Niñas occur as described by Prigent et al., (2020a). 
 
-![Editing a markdown file for a talk](https://raw.githubusercontent.com/aprig/arthurprigent/master/_pages/figure_timeseries_atl3.png)
+![animateed_timeseries](https://github.com/aprig/arthurprigent/blob/master/_pages/animation_8.gif?raw=true)
 Figure 3. Timeseries of the ATL3-averaged detrended OI-SST anomalies. Anomalies were evaluated with respect to the climatology over the period 1982-2022. Red (blue) shades indicate that the SST anomalies is larger (smaller) than one standard deviation (0.45 ˚C).  
 
 
