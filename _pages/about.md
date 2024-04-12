@@ -12,6 +12,9 @@ I am a postdoctoral fellow in Physical Oceanography currently working at the Int
 
 My main interests are:
 
+* Ocean models
+  * Assessment of the OMIP models in the tropical Atlantic
+      
 * Tropical Atlantic Variability (TAV)
   * Atlantic Niños
   * Benguela Niños
