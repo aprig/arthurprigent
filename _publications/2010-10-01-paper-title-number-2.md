@@ -2,7 +2,6 @@
 title: "Origin of weakened interannual sea surface temperature variability in the southeastern tropical Atlantic Ocean"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-
 date: 2020-10-01
 venue: 'Geophysical Research Letters'
 paperurl: 'https://doi.org/10.1029/2020GL089348'  
