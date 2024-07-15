@@ -1,5 +1,4 @@
 ---
-number: 1
 title: "Weakened SST variability in the tropical Atlantic Ocean since 2000"
 collection: publications
 permalink: /publication/paper1
