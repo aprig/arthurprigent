@@ -1,7 +1,7 @@
 ---
 title: "Future weakening of southeastern tropical Atlantic Ocean interannual sea surface temperature variability in a global climate model"
 collection: publications
-permalink: /publication/paper1
+permalink: /publication/2023-11-17-paper-title-number
 date: 2023-11-17
 venue: 'Climate Dynamics'
 paperurl: 'https://doi.org/10.1007/s00382-023-07007-y'
