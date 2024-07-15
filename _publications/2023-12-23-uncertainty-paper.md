@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty on Atlantic Niño variability projections"
 collection: publications
-permalink: /publication/paper1
+permalink: /publication/2023-12-23-uncertainty-paper
 date: 2023-12-23
 venue: 'Geophysical Research Letters'
 paperurl: 'https://doi.org/10.1029/2023GL105000'
