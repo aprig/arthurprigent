@@ -11,12 +11,13 @@ author_profile: true
 
 {% assign sorted_pubs = site.publications | sort: 'date' | reverse %} <!-- newest first -->
 {% assign pubs_by_year = sorted_pubs | group_by_exp:"item", "item.date | date: '%Y'" %}
+{% assign total_pubs = site.publications | size %} <!-- total number of publications -->
 
 <style>
   .publications-container {
-    max-width: 900px;   /* keeps text from stretching across the whole screen */
-    margin: 0 auto;     /* centers the block */
-    padding: 0 1rem;    /* small side padding */
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1rem;
   }
   .publication-year {
     margin-top: 2em;
@@ -50,12 +51,11 @@ author_profile: true
 </style>
 
 <div class="publications-container">
-{% assign counter = 0 %}
+{% assign counter = total_pubs %}
 
 {% for year_group in pubs_by_year %}
   <div class="publication-year">{{ year_group.name | strip }}</div>
   {% for pub in year_group.items %}
-    {% assign counter = counter | plus: 1 %}
     <div class="publication-card">
       <span class="publication-number">{{ counter }}.</span>
       {{ pub.citation | replace: "Prigent", "<strong>Prigent</strong>" | markdownify }}
@@ -63,6 +63,7 @@ author_profile: true
         &nbsp;<a href="{{ pub.paperurl }}" target="_blank">PDF</a>
       {% endif %}
     </div>
+    {% assign counter = counter | minus: 1 %}
   {% endfor %}
 {% endfor %}
 </div>
