@@ -1,3 +1,11 @@
+publications.html
+-----------------
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+
 {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
 {% assign pubs_by_year = sorted_pubs | group_by_exp:"item", "item.date | date: '%Y'" %}
 
