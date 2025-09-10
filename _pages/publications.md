@@ -35,18 +35,18 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   }
 </style>
 
-{% assign counter = 0 %}  <!-- Initialize counter -->
+{% assign counter = 0 %}
 
 {% for year_group in pubs_by_year %}
-  <div class="publication-year">{{ year_group.name }}</div>
+  <div class="publication-year">{{ year_group.name | strip }}</div>
   {% for pub in year_group.items %}
     {% assign counter = counter | plus: 1 %}
     <div class="publication-card">
       <strong>{{ counter }}.</strong>
       {% assign citation = pub.citation | replace: "Prigent", "<strong>Prigent</strong>" %}
-      {{ citation | markdownify }}
+      {{ citation | markdownify }} &nbsp; 
       {% if pub.paperurl %}
-        &nbsp;[PDF]({{ pub.paperurl }})
+        [PDF]({{ pub.paperurl }})
       {% endif %}
     </div>
   {% endfor %}
