@@ -13,6 +13,11 @@ author_profile: true
 {% assign pubs_by_year = sorted_pubs | group_by_exp:"item", "item.date | date: '%Y'" %}
 
 <style>
+  .publications-container {
+    max-width: 900px;   /* keeps text from stretching across the whole screen */
+    margin: 0 auto;     /* centers the block */
+    padding: 0 1rem;    /* small side padding */
+  }
   .publication-year {
     margin-top: 2em;
     font-size: 1.5em;
@@ -44,6 +49,7 @@ author_profile: true
   }
 </style>
 
+<div class="publications-container">
 {% assign counter = 0 %}
 
 {% for year_group in pubs_by_year %}
@@ -59,3 +65,4 @@ author_profile: true
     </div>
   {% endfor %}
 {% endfor %}
+</div>
