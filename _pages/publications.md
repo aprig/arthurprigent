@@ -16,22 +16,33 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <style>
   .publication-year {
-    margin-top: 2em;
-    font-size: 1.5em;
-    border-bottom: 2px solid #ccc;
+    margin-top: 3em;
+    font-size: 1.8em;
+    font-weight: bold;
+    border-bottom: 2px solid #007acc;
     padding-bottom: 0.2em;
+    color: #007acc;
   }
   .publication-card {
-    padding: 0.5em 1em;
-    margin: 0.5em 0;
-    border-left: 4px solid #007acc;
-    background-color: #f9f9f9;
-    border-radius: 5px;
+    padding: 0.8em 1em;
+    margin: 0.8em 0;
+    border-left: 5px solid #007acc;
+    background-color: #f0f4f8;
+    border-radius: 6px;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .publication-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
   }
   .publication-card a {
     text-decoration: none;
     color: #007acc;
     font-weight: bold;
+  }
+  .publication-number {
+    font-weight: bold;
+    margin-right: 0.5em;
   }
 </style>
 
@@ -42,11 +53,11 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   {% for pub in year_group.items %}
     {% assign counter = counter | plus: 1 %}
     <div class="publication-card">
-      <strong>{{ counter }}.</strong>
+      <span class="publication-number">{{ counter }}.</span>
       {% assign citation = pub.citation | replace: "Prigent", "<strong>Prigent</strong>" %}
-      {{ citation | markdownify }} &nbsp; 
+      {{ citation | markdownify }}
       {% if pub.paperurl %}
-        [PDF]({{ pub.paperurl }})
+        &nbsp;[PDF]({{ pub.paperurl }})
       {% endif %}
     </div>
   {% endfor %}
