@@ -54,10 +54,9 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
     {% assign counter = counter | plus: 1 %}
     <div class="publication-card">
       <span class="publication-number">{{ counter }}.</span>
-      {% assign citation = pub.citation | replace: "Prigent", "<strong>Prigent</strong>" %}
-      {{ citation | markdownify }}
+      {{ pub.citation | replace: "Prigent", "<strong>Prigent</strong>" | markdownify }}
       {% if pub.paperurl %}
-        &nbsp;[PDF]({{ pub.paperurl }})
+        &nbsp;<a href="{{ pub.paperurl }}">PDF</a>
       {% endif %}
     </div>
   {% endfor %}
