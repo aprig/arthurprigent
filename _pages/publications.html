@@ -1,0 +1,16 @@
+{% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
+{% assign pubs_by_year = sorted_pubs | group_by_exp:"item", "item.date | date: '%Y'" %}
+
+{% for year_group in pubs_by_year %}
+  <h2>{{ year_group.name }}</h2>
+  <ul>
+    {% for pub in year_group.items %}
+      <li>
+        {{ pub.citation }}
+        {% if pub.paperurl %}
+          [PDF]({{ pub.paperurl }})
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
