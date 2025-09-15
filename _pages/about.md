@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /arthurprigent/images/1588147497071.jpeg
+  overlay_image: "{{ site.baseurl }}/images/1588147497071.jpeg"
   overlay_filter: 0.3
 ---
 
