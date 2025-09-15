@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /assets/images/background.jpg
+  overlay_image: /images/1588147497071.jpeg
   overlay_filter: 0.3   # makes the text readable (0 = no filter, 1 = black)
   caption: "Photo credit: Unsplash" # optional
 ---
