@@ -9,27 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- HERO IMAGE START -->
-<div class="hero">
-  <h1>About me</h1>
-</div>
-
-<style>
-.hero {
-  background-image: url('https://raw.githubusercontent.com/aprig/arthurprigent/master/images/1588147497071.jpeg');
-  background-size: cover;
-  background-position: center;
-  height: 400px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
-  margin-bottom: 2rem;
-}
-</style>
-<!-- HERO IMAGE END -->
-
 I am a postdoctoral fellow in Physical Oceanography currently working at the International Centre for Theoretical Physics (ICTP). 
 
 My main interests are:
