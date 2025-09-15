@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -8,8 +9,7 @@ redirect_from:
   - /about.html
 header:
   overlay_image: /images/1588147497071.jpeg
-  overlay_filter: 0.3   # makes the text readable (0 = no filter, 1 = black)
-  caption: "Photo credit: Unsplash" # optional
+  overlay_filter: 0.3
 ---
 
 I am a postdoctoral fellow in Physical Oceanography currently working at the International Centre for Theoretical Physics (ICTP). 
