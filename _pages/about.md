@@ -6,6 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: /assets/images/background.jpg
+  overlay_filter: 0.3   # makes the text readable (0 = no filter, 1 = black)
+  caption: "Photo credit: Unsplash" # optional
 ---
 
 I am a postdoctoral fellow in Physical Oceanography currently working at the International Centre for Theoretical Physics (ICTP). 
