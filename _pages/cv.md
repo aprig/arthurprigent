@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* February 2026 - Today: Postdoctoral
+* February 2026 - Today: Postdoctoral Researcher
   * Laboratory for Ocean Physics and Satellite remote sensing (LOPS) and University of Brest (UBO)
   * Supervisor: Dr. Nicolas Kolodziejczyk
     
