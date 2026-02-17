@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* January 2023 - Today: Postdoctoral Fellow
+* February 2026 - Today: Postdoctoral
+  * Laboratory for Ocean Physics and Satellite remote sensing (LOPS) and University of Brest (UBO)
+  * Supervisor: Dr. Nicolas Kolodziejczyk
+    
+* January 2023 - January 2026: Postdoctoral Fellow
   * The Abdus Salam International Centre for Theoretical Physics (ICTP)
   * Supervisor: Dr. Riccardo Farneti 
 
