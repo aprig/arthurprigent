@@ -19,7 +19,7 @@ Work experience
 ======
 * February 2026 - Today: Postdoctoral Researcher
   * Laboratory for Ocean Physics and Satellite remote sensing (LOPS) and University of Brest (UBO)
-  * Supervisor: Dr. Nicolas Kolodziejczyk
+  * Supervisors: Dr. Nicolas Kolodziejczyk and Dr. Camille Lique
     
 * January 2023 - January 2026: Postdoctoral Fellow
   * The Abdus Salam International Centre for Theoretical Physics (ICTP)
