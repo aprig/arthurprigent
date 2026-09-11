@@ -9,10 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow in Physical Oceanography currently working at the International Centre for Theoretical Physics (ICTP). 
+I am a postdoctoral fellow in Physical Oceanography currently working at the LOPS in Brittany, France. 
 
 My main interests are:
 
+* Arctic Ocean hydrography 
+  * Estimation of spatio-temporal decorrelation scales
+  * Polar Argo observing array
+    
 * Ocean models
   * Assessment of the OMIP models in the tropical Atlantic
       
