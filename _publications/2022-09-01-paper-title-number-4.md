@@ -1,7 +1,7 @@
 ---
 title: "Weakening of the Atlantic Niño variability under global warming"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2022-09-01-paper-title-number-4
 date: 2022-09-01
 venue: 'Nature Climate Change'
 paperurl: 'https://doi.org/10.1038/s41558-022-01453-y'
