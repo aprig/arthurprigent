@@ -1,7 +1,7 @@
 ---
 title: "Physical Drivers of Southwest African Coastal Upwelling and Its Response to Climate Variability and Change"
 collection: publications
-permalink: /publication/paper1
+permalink: /publication/2024-01-06-physical-drives
 date: 2024-01-06
 venue: 'Ecological Studies'
 paperurl: "https://doi.org/10.1007/978-3-031-10948-5_9"
