@@ -1,7 +1,7 @@
 ---
 title: "Weakened SST variability in the tropical Atlantic Ocean since 2000"
 collection: publications
-permalink: /publication/paper1
+permalink: /publication/2009-10-01-paper-title-number-1
 date: 2020-01-27
 venue: 'Climate Dynamics'
 paperurl: 'https://doi.org/10.1007/s00382-020-05138-0'
